@@ -1,0 +1,10 @@
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.1\Doodor.Utils.deps.json
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.1\Doodor.Utils.dll
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.1\Doodor.Utils.pdb
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.csproj.AssemblyReference.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.AssemblyInfoInputs.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.AssemblyInfo.cs
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.csproj.CoreCompileInputs.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.dll
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.pdb
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.1\Doodor.Utils.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,17 @@
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.deps.json
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.pdb
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.AssemblyInfo.cs
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.pdb
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.deps.json
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\doodor.utils\Doodor.Utils\bin\Release\netcoreapp3.0\Doodor.Utils.pdb
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.csproj.AssemblyReference.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.AssemblyInfoInputs.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.AssemblyInfo.cs
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.csproj.CoreCompileInputs.cache
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\doodor.utils\Doodor.Utils\obj\Release\netcoreapp3.0\Doodor.Utils.pdb

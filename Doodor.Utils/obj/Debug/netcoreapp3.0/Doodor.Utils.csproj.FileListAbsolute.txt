@@ -1,0 +1,8 @@
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.0\Doodor.Utils.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.0\Doodor.Utils.AssemblyInfo.cs
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.0\Doodor.Utils.deps.json
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\bin\Debug\netcoreapp3.0\Doodor.Utils.pdb
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.0\Doodor.Utils.dll
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.0\Doodor.Utils.pdb
+C:\Projetos\Pessoais\2 - doodor.utils\Doodor.Utils\obj\Debug\netcoreapp3.0\Doodor.Utils.csprojAssemblyReference.cache
